@@ -56,7 +56,8 @@ Electron Build
 > cd /resources/app <br>
 electron .
 
-
+![alt text](https://github.com/forza91/CocosCreatorLinux/blob/main/screenshot3.png)
+![alt text](https://github.com/forza91/CocosCreatorLinux/blob/main/screenshot2.png)
 
 AppImage Build
 -------
@@ -81,6 +82,8 @@ jsCacheDir:Editor.url(os.homedir()+"/.cache/"+G),
 npm run build
 
 **The exec file will be in ./dist !!**
+
+![alt text](https://github.com/forza91/CocosCreatorLinux/blob/main/screenshot.png)
 
 
 Trouble Shooting
