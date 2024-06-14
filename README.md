@@ -47,7 +47,7 @@ Electron Build
 
 2.Install node@14.16.1 in your system
 
-3.Install npm dependencies
+3.Install npm dependencies in USER directory
 > npm i  electron@11.2.0 sharp@0.28.3 electron-builder@20.0.7
 
 4.Replace the 'node_modules', 'package.json' and 'utils' by this repo.
