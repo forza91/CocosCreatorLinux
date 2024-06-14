@@ -54,7 +54,7 @@ Electron Build
 
 5.Copy all files and folders in /resources from Windows/Mac install, except app.asar. 
 
-6.**Now you are able to run with electron! **
+**6.Now you are able to run with electron!**
 > cd /resources/app <br>
 electron .
 
@@ -81,7 +81,7 @@ jsCacheDir:Editor.url(os.homedir()+"/.cache/"+G),
 3.Remove /resources/cocos2d-x/simulator/mac
 
 4.Build AppImage
-npm run build
+>npm run build
 
 **The exec file will be in ./dist !!**
 
