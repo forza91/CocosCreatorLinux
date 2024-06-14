@@ -1,3 +1,5 @@
+### Note: The source code of the applications involved in this project is provided solely for community use. The authors of this project will not be held responsible for any legal liability incurred from using the code for other purposes.
+
 Usage
 -------
 > ./Cocos-Creator -\-project 'PROJECT_PATH' -\-path 'PROJECT_PATH' -\-build 'platform=web-mobile;buildPath=BUILD_PATH'
